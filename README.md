@@ -47,12 +47,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Austin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=austinb12&show_icons=true&hide_border=false&title_color=eff8ff&icon_color=5ce973&bg_color=09131B&text_color=eff8ff&border_color=0c1a25" />
-
-</details>
 
 <br />
 <br />
