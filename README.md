@@ -1,31 +1,15 @@
-# Hello World! 👋
-## I'm Austin Baird
+# Hello World! 👋 I'm Austin Baird
 ### I'm a web developer from Wilmington NC!
 
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCU0CitVYVrFqdpJqmZzEL_Q?logo=youtube&logoColor=red&style=for-the-badge)
-[![Website](https://img.shields.io/website?label=austinbaird.software&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://austinbaird.software)
-[![Twitter Follow](https://img.shields.io/twitter/follow/austinbaird21?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Austinbaird21)
-
-
-
 - 🔭 I’m currently working on: my personal website! [austinbaird.software](https://austinbaird.software)
-- 🏨 Currently I work professionally at SolarWinds doing Full Stack development in an React / .NET / GraphQL / SQL Server tech stack
-- 🌱 I’m currently learning: React, Go, SVGs, Python
-- 💪 Skills: JS, React, HTML/CSS, C#/.NET, VB, Python, Flask
+- 🏢 I work at SolarWinds doing Full Stack development in a React / .NET / GraphQL / SQL Server tech stack
+- 💪 Skills: JS & TS, React, HTML/CSS, C#, .NET
+- 🌱 I’m learning: Next.js, Go, SVG, Python
 - 💬 Ask me about: My dogs, Ace, Cooper, and Iris 🐶🐶🐶
 - 📫 How to reach me: austinzbaird@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Software bugs are called bugs because when programs were written on punch cards, sometimes bugs would get in and mess it all up! 🐛
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://austinbaird.software)&nbsp;&nbsp;&nbsp;[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCU0CitVYVrFqdpJqmZzEL_Q)&nbsp;&nbsp;&nbsp;[![website](./img/twitter-light.svg)](https://twitter.com/Austinbaird21)&nbsp;&nbsp;&nbsp;[![website](./img/linkedin-light.svg)](https:/www.linkedin.com/in/%F0%9F%92%BB-austin-baird-2a1490171/)
-
-[website]: https://austinbaird.software
-[twitter]: https://twitter.com/Austinbaird21
-[youtube]: https://www.youtube.com/channel/UCU0CitVYVrFqdpJqmZzEL_Q
-[linkedin]: https://www.linkedin.com/in/%F0%9F%92%BB-austin-baird-2a1490171/
 
 ### Languages and Tools:
 
@@ -51,3 +35,24 @@
 
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+### Connect with me 📞:
+
+[![website](./img/globe-light.svg)](https://austinbaird.software)&nbsp;&nbsp;&nbsp;[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCU0CitVYVrFqdpJqmZzEL_Q)&nbsp;&nbsp;&nbsp;[![website](./img/twitter-light.svg)](https://twitter.com/Austinbaird21)&nbsp;&nbsp;&nbsp;[![website](./img/linkedin-light.svg)](https:/www.linkedin.com/in/%F0%9F%92%BB-austin-baird-2a1490171/)
+
+[website]: https://austinbaird.software
+[twitter]: https://twitter.com/Austinbaird21
+[youtube]: https://www.youtube.com/channel/UCU0CitVYVrFqdpJqmZzEL_Q
+[linkedin]: https://www.linkedin.com/in/%F0%9F%92%BB-austin-baird-2a1490171/
+
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCU0CitVYVrFqdpJqmZzEL_Q?logo=youtube&logoColor=red&style=for-the-badge)
+[![Website](https://img.shields.io/website?label=austinbaird.software&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://austinbaird.software)
+[![Twitter Follow](https://img.shields.io/twitter/follow/austinbaird21?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Austinbaird21)
+
+
+
